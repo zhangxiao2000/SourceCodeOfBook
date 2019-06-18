@@ -1,0 +1,3 @@
+1、运行本章的example_tesseract.py代码时，需要在电脑上安装图像识别库tesseract，
+      同时需要将源代码中的tesseract_cmd路径改为本地路径，否则会出现找不到tesseract的错误
+       python安装路径下的Lib目录，其下的pytesseract目录，修改pytesseract.py文件

@@ -1,0 +1,1 @@
+1、在运行example_selenium.py时，需要将chromedriver.exe放在该目录下或者放在指定目录下
