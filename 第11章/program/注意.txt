@@ -1,0 +1,12 @@
+Scrapy安装：
+
+1、如果Python是使用Anaconda安装的，可以直接使用conda install Scrapy安装Scrapy
+
+2、如果Python不是通过Anaconda安装的，需要进行如下步骤
+      （1）安装lxml：pip install lxml
+      （2）安装pyOpenSSL：下载网址：https://pypi.org/project/pyOpenSSL/#downloads，下载对应的whl文件，然后通过pip安装
+      （3）安装Twisted：http://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted 下载whl文件，然后通过pip安装
+      （4）https://sourceforge.net/projects/pywin32/files/pywin32/Build%20221/ 下载exe文件安装即可
+
+
+运行代码之前，需要安装redis，并且启动redis服务
